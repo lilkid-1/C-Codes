@@ -7,8 +7,17 @@ If the frequency of word is greater than 0 then return yes with frequency else r
 
 Code Compile
 gcc filename.cpp
+
+
  > user input
+ 
+ 
   inputstring inputfrequency
+  
+  
  > input string to be searched
+ 
+ 
   searchstring
+  
  
