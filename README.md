@@ -7,7 +7,7 @@ Passed the string to be searched as a parameter in the search operation and retu
 If the frequency of word is greater than 0 then return yes with frequency else return no(cause every element will have frequency > 0).
 
 Code Compile
-gcc filename.cpp
+g++ filename.cpp
 
 
  > user input
@@ -20,6 +20,7 @@ gcc filename.cpp
  
  
   searchstring
+  ./a.out for result
   
  
 q2)dict2.cpp
@@ -33,7 +34,7 @@ Temporary String array is also passed to the function so on providing the number
 
 
 Code Compile
-gcc filename.cpp
+g++ filename.cpp
 
 
 > user input
@@ -47,3 +48,4 @@ gcc filename.cpp
   
   (input num starting from 0 to length of Dictionary)
  
+  ./a.out for result
